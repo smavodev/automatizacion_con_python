@@ -1,0 +1,8 @@
+
+# Entorno Virtual
+venv/
+
+.idea/
+Driver/
+
+chromedriver_win32.zip
