@@ -10,3 +10,4 @@ Ruta de descarga: https://chromedriver.chromium.org/downloads
 ----------------------------------------------
 ## Instalar Librerias:
 * pip install selenium
+* pip instalar pandas

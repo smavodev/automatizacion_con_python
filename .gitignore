@@ -2,7 +2,12 @@
 # Entorno Virtual
 venv/
 
+# Carpetas
 .idea/
 Driver/
 
+# Comprimidos
 chromedriver_win32.zip
+
+# Archivos Ouput
+football.csv
