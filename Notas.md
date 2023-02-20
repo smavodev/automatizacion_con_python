@@ -11,3 +11,7 @@ Ruta de descarga: https://chromedriver.chromium.org/downloads
 ## Instalar Librerias:
 * pip install selenium
 * pip instalar pandas
+* pip install pyinstaller
+
+## Crear el ejecutable
+* pyinstaller --onefile 03_football_extracionData_Selenium_automatizado.py
